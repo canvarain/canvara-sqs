@@ -1,0 +1,15 @@
+[
+    {
+        "name": "testqueue",
+        "attributes": {
+            "VisibilityTimeout": "300",
+            "MessageRetentionPeriod": "86400"
+        }
+    },
+    {
+        "name": "testqueue2",
+        "attributes": {
+            "VisibilityTimeout": "900"
+        }
+    }
+]
